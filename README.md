@@ -18,5 +18,6 @@ The intuition behind homogenization is known as effective medium approximation (
 1. Turing patterns
 2. Voronoi Cell patterns
 3. Delaunay Triangulation
-4. Founder effect and Population Bottleneck
-5. Crystallization effect and Packing problems
+4. Kolmogorov-Fisher equation, Kolmogorov-Avrami model
+5. Founder effect and Population Bottleneck
+6. Crystallization effect and Packing problems
