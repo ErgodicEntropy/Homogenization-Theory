@@ -1,4 +1,4 @@
-# HomogenizationTheory
+# Homogenization Theory
 This project is centered around the homogenization of the popular laminated and chessboard problems using FreeFem++ software program. A customized problem is discussed afterwards (reversed Turing pattern).\
 Homogenization theory is the study of the process of homogenization in micromechanics and composite materials. Homogenization is the phenomenon of buffering variation and rendering the composite material homogeneous in terms of its properties by replacing it with a virtual equivalent homogenized copy of itself. In fact, the heterogeneity that is naturally present in composite materials make it harder for numerical simulation to perform computation on the system because of the amount of precision needed (at the level of the microstructure scale) to get accurate results, the computation then becomes exhaustive and expensive thus the use of homogenization techniques to alleviate the computational load.
 
