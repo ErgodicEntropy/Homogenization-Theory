@@ -21,3 +21,4 @@ The intuition behind homogenization is known as effective medium approximation (
 4. Kolmogorov-Fisher equation, Kolmogorov-Avrami model
 5. Founder effect and Population Bottleneck
 6. Crystallization effect and Packing problems
+7. Percolation theory (of which Homogenization theory is a subset)
